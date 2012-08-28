@@ -1,0 +1,6 @@
+error mysql_error
+mysql_error
+Warning
+mysql_fetch_array()
+supplied argument
+You have an error in your SQL syntax;
